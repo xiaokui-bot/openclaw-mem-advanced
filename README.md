@@ -1,4 +1,6 @@
-# 🦞 OpenClaw-Mem
+# OpenClaw-MemAdvanced
+
+[中文版](./README_ZH.md) | English
 
 Enhanced personal AI assistant built on OpenClaw with advanced memory capabilities.
 

@@ -1,4 +1,6 @@
-# 🦞 OpenClaw-Mem
+# OpenClaw-MemAdvanced
+
+[English](./README.md) | 中文版
 
 基于 OpenClaw 构建的增强型个人 AI 助手，具备高级记忆功能。
 
