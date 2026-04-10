@@ -1,1 +1,3 @@
-Maintainer skills now live in [`openclaw/maintainers`](https://github.com/openclaw/maintainers/).
+# Maintainers
+
+This is a personal fork. For the original maintainers, visit: https://github.com/openclaw/openclaw
